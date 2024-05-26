@@ -50,7 +50,7 @@ public class NotesTakerActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent( NotesTakerActivity.this, MainActivity.class);
-                NotesTakerActivity.this.startActivity(intent);
+
             }
         });
 

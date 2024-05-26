@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="white">#E3E3E3</color>
-    <color name="text_grey">#838383</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
 
 <!--    <color name="background_green">#348025</color>-->
 <!--    <color name="main_green">#91BA4F</color>-->
@@ -10,12 +10,12 @@
 <!--    <color name="dark_gray">#343732</color>-->
 <!--    <color name="light_gray">#B3A5A5</color>-->
 
-    <color name="background">#000000</color>
-    <color name="button">#0091EA</color>
-    <color name="main">#242424</color>
-    <color name="additional">#008BE1</color>
+    <color name="background">#D5AC9A</color>
+    <color name="button">#CD887E</color>
+    <color name="main">#EDDECB</color>
+    <color name="additional">#CD887E</color>
     <color name="grey">#888F84</color>
-    <color name="dark_grey">#343732</color>
+    <color name="text_color">#3E1E1A</color>
     <color name="light_gray">#B3A5A5</color>
 
 
