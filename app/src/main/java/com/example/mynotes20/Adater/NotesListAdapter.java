@@ -38,7 +38,7 @@ public class NotesListAdapter extends RecyclerView.Adapter<NotesViewHolder>{
 
 
     @Override
-    public void onBindViewHolder(@NonNull NotesViewHolder holder, int position) { //получаем инфо и
+    public void onBindViewHolder(@NonNull NotesViewHolder holder, int position) { //получаем инфо
         holder.tv_title.setText(list.get(position).getTitle());
         holder.tv_title.setSelected(true);
 
